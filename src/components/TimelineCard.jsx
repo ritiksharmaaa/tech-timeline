@@ -76,7 +76,7 @@ const TimelineCard = ({ milestone, index, total, theme }) => {
             
             {/* Actual image */}
             <img
-              src={milestone.image}
+              src={`${import.meta.env.BASE_URL}${milestone.image}`}
               alt={milestone.event}
               className={`absolute inset-0 transition-opacity duration-700 ${imageLoaded ? 'opacity-100' : 'opacity-0'}`}
               onLoad={() => setImageLoaded(true)}

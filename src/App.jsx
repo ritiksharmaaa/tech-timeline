@@ -218,7 +218,7 @@ function App() {
           {/* Left - Logo & Title */}
           <div className="flex items-center gap-3 md:gap-4">
             <div className="flex items-center gap-3">
-              <img src="/favicon.svg" alt="TE Logo" className="w-8 h-8 md:w-9 md:h-9 rounded-lg" />
+              <img src={`${import.meta.env.BASE_URL}favicon.svg`} alt="TE Logo" className="w-8 h-8 md:w-9 md:h-9 rounded-lg" />
               <h1 className="text-lg md:text-xl font-semibold tracking-tight header-title">
                 Technology Evolution
               </h1>
