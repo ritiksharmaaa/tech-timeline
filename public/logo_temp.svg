@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0071e3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00a8ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Circle (Optional, can be removed for transparent) -->
+  <circle cx="256" cy="256" r="256" fill="#111" />
+  
+  <!-- T -->
+  <path d="M160 140 H352 V200 H286 V380 H226 V200 H160 Z" fill="url(#grad)" />
+  
+  <!-- E (Stylized to lock with T) -->
+  <path d="M360 380 H250 V340 H340 V290 H260 V260 H280 V220 H360 V380 Z" fill="#fff" opacity="0.9" />
+  
+  <!-- Modern Monogram "TE" -->
+  <g transform="translate(136, 128) scale(0.5)">
+     <!-- T Shape -->
+     <rect x="0" y="0" width="480" height="100" rx="20" fill="url(#grad)" />
+     <rect x="190" y="0" width="100" height="480" rx="20" fill="url(#grad)" />
+     
+     <!-- E Shape -->
+     <path d="M220 220 H480 V320 H320 V380 H480 V480 H220 V220" fill="#fff" />
+  </g>
+</svg>

@@ -1,0 +1,73 @@
+================================================================================
+              MISSING IMAGES - DOWNLOAD AND SAVE TO public/ FOLDER
+================================================================================
+
+Download authentic historical images for each item below.
+Save each image with the EXACT filename shown (including .png extension).
+Put all images directly in: public/
+
+================================================================================
+                           20 IMAGES TO DOWNLOAD
+================================================================================
+
+1. electromagnetism_1820.png
+   → Hans Christian Ørsted experiment showing compass deflection near electric wire
+
+2. homopolar_motor_1821.png
+   → Michael Faraday's first electric motor with wire rotating in mercury
+
+3. electromagnetic_induction_1831.png
+   → Faraday's induction experiment with coil and moving magnet
+
+4. electric_relay_1835.png
+   → Joseph Henry's electromagnetic relay switch
+
+5. radio_waves_1888.png
+   → Heinrich Hertz spark gap transmitter and receiver apparatus
+
+6. electron_1897.png
+   → J.J. Thomson's cathode ray tube experiment
+
+7. triode_1906.png
+   → Lee de Forest's Audion vacuum tube (triode)
+
+8. boolean_circuits_1937.png
+   → Claude Shannon's relay-based logic circuit at MIT
+
+9. z3_computer_1941.png
+   → Konrad Zuse's Z3 computer
+
+10. edvac_1945.png
+    → EDVAC computer or von Neumann architecture diagram
+
+11. silicon_ic_1959.png
+    → Robert Noyce's planar silicon integrated circuit
+
+12. unix_1969.png
+    → Bell Labs UNIX development (Ken Thompson, Dennis Ritchie)
+
+13. email_1971.png
+    → Ray Tomlinson or first network email concept
+
+14. xerox_alto_1973.png
+    → Xerox Alto computer with GUI and mouse
+
+15. altair_8800_1975.png
+    → MITS Altair 8800 personal computer kit
+
+16. alexnet_2012.png
+    → AlexNet neural network visualization or ImageNet competition
+
+17. agentic_ai_2024.png
+    → AI agent workflow or autonomous AI concept
+
+18. agent_orchestration_2026.png
+    → AI orchestration / multiple AI agents working together
+
+19. neuromorphic_2026.png
+    → Neuromorphic chip or brain-inspired computing
+
+20. 6g_trials_2026.png
+    → 6G network concept or futuristic connectivity
+
+================================================================================

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Gradient Background -->
+  <rect width="100" height="100" rx="30" fill="url(#bg_grad)"/>
+  
+  <!-- Circuit Traces forming TE -->
+  <path d="M25 35 H45 M55 35 H75" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <path d="M50 35 V70" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="50" cy="74" r="4" fill="white"/>
+  
+  <path d="M60 48 H75" stroke="rgba(255,255,255,0.7)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M60 62 H75" stroke="rgba(255,255,255,0.7)" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="25" cy="35" r="4" fill="white"/>
+  <circle cx="75" cy="35" r="4" fill="white"/>
+  
+  <defs>
+    <linearGradient id="bg_grad" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1e1e1e"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+</svg>

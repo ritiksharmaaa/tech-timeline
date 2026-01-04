@@ -1,0 +1,277 @@
+{
+  "scientific_evolution_timeline": [
+    {
+      "era": "I. The Awakening: Electricity & Magnetism (1600–1899)",
+      "milestones": [
+        {
+          "year": "1600",
+          "event": "Publication of De Magnete",
+          "innovator": "William Gilbert",
+          "impact": "Distinguished 'electric' effects from magnetic ones; birth of the study of electricity."
+        },
+        {
+          "year": "1745",
+          "event": "Invention of the Leyden Jar",
+          "innovator": "Ewald Georg von Kleist",
+          "impact": "The first device to store electricity (the first capacitor)."
+        },
+        {
+          "year": "1800",
+          "event": "Invention of the Voltaic Pile",
+          "innovator": "Alessandro Volta",
+          "impact": "Provided the first steady, continuous flow of electric current (the first battery)."
+        },
+        {
+          "year": "1820",
+          "event": "Discovery of Electromagnetism",
+          "innovator": "Hans Christian Ørsted",
+          "impact": "Proved electric current creates a magnetic field, linking electricity and magnetism."
+        },
+        {
+          "year": "1821",
+          "event": "Invention of the Homopolar Motor",
+          "innovator": "Michael Faraday",
+          "impact": "First device to convert electricity into continuous mechanical motion."
+        },
+        {
+          "year": "1831",
+          "event": "Discovery of Electromagnetic Induction",
+          "innovator": "Michael Faraday",
+          "impact": "Proved moving magnets create electricity; principle behind all modern power generators."
+        },
+        {
+          "year": "1835",
+          "event": "Invention of the Electric Relay",
+          "innovator": "Joseph Henry",
+          "impact": "Fundamental concept of a switch/gate used in computers."
+        },
+        {
+          "year": "1837",
+          "event": "Development of the Commercial Telegraph",
+          "innovator": "Samuel Morse",
+          "impact": "Information begins traveling faster than human physical transport."
+        },
+        {
+          "year": "1876",
+          "event": "Patent of the Telephone",
+          "innovator": "Alexander Graham Bell",
+          "impact": "Conversion of sound waves into electrical signals for distance communication."
+        },
+        {
+          "year": "1879",
+          "event": "Incandescent Light Bulb",
+          "innovator": "Thomas Edison",
+          "impact": "First commercially practical bulb, bringing electricity into homes."
+        },
+        {
+          "year": "1888",
+          "event": "Proof of Radio Waves",
+          "innovator": "Heinrich Hertz",
+          "impact": "Demonstrated that energy can travel wirelessly through the air."
+        },
+        {
+          "year": "1897",
+          "event": "Discovery of the Electron",
+          "innovator": "J.J. Thomson",
+          "impact": "The official birth of Electronics—the science of controlling electrons."
+        }
+      ]
+    },
+    {
+      "era": "II. The Electronic & Logic Era (1900–1946)",
+      "milestones": [
+        {
+          "year": "1904",
+          "event": "Invention of Vacuum Tube Diode",
+          "innovator": "John Ambrose Fleming",
+          "impact": "First device to control the direction of electron flow."
+        },
+        {
+          "year": "1906",
+          "event": "Invention of the Triode (Audion)",
+          "innovator": "Lee de Forest",
+          "impact": "Allowed signal amplification; made radio and voice transmission possible."
+        },
+        {
+          "year": "1937",
+          "event": "Boolean Algebra implementation in circuits",
+          "innovator": "Claude Shannon",
+          "impact": "Theoretical birth of digital logic design using electrical switches."
+        },
+        {
+          "year": "1941",
+          "event": "Building of the Z3",
+          "innovator": "Konrad Zuse",
+          "impact": "World's first working programmable, fully automatic digital computer."
+        },
+        {
+          "year": "1945",
+          "event": "First Draft of a Report on the EDVAC",
+          "innovator": "John von Neumann",
+          "impact": "Described Stored-Program Architecture used by all modern computers."
+        },
+        {
+          "year": "1946",
+          "event": "Completion of ENIAC",
+          "innovator": "Mauchly & Eckert",
+          "impact": "First general-purpose, purely electronic digital computer."
+        }
+      ]
+    },
+    {
+      "era": "III. The Silicon & Transistor Revolution (1947–1970)",
+      "milestones": [
+        {
+          "year": "1947",
+          "event": "Invention of the Transistor",
+          "innovator": "Bardeen, Brattain, Shockley",
+          "impact": "The hardware 'cell' of the modern age; replaced fragile vacuum tubes."
+        },
+        {
+          "year": "1958",
+          "event": "Invention of the Integrated Circuit (IC)",
+          "innovator": "Jack Kilby",
+          "impact": "Multiple components built on a single slice of semiconductor."
+        },
+        {
+          "year": "1959",
+          "event": "Monolithic Silicon IC",
+          "innovator": "Robert Noyce",
+          "impact": "Launched the Silicon Valley era through mass-producible silicon chips."
+        },
+        {
+          "year": "1969",
+          "event": "ARPANET First Message",
+          "innovator": "U.S. Dept of Defense / UCLA",
+          "impact": "The direct technical ancestor of the Internet."
+        },
+        {
+          "year": "1969",
+          "event": "Development of UNIX",
+          "innovator": "Bell Labs",
+          "impact": "Design influenced Linux, macOS, and Android."
+        }
+      ]
+    },
+    {
+      "era": "IV. The Microprocessor & PC Era (1971–1990)",
+      "milestones": [
+        {
+          "year": "1971",
+          "event": "Intel 4004 Microprocessor",
+          "innovator": "Intel",
+          "impact": "The first 'Computer on a Chip'."
+        },
+        {
+          "year": "1971",
+          "event": "First Network Email",
+          "innovator": "Ray Tomlinson",
+          "impact": "Introduced the '@' symbol for networked communication."
+        },
+        {
+          "year": "1973",
+          "event": "Xerox Alto",
+          "innovator": "Xerox PARC",
+          "impact": "First computer to use a Mouse and Graphical User Interface (GUI)."
+        },
+        {
+          "year": "1975",
+          "event": "Altair 8800 Release",
+          "innovator": "MITS",
+          "impact": "Inspired the founding of Microsoft."
+        },
+        {
+          "year": "1976",
+          "event": "Apple I Design",
+          "innovator": "Steve Wozniak",
+          "impact": "First single-board computer for hobbyists; launched Apple."
+        },
+        {
+          "year": "1981",
+          "event": "IBM PC (5150)",
+          "innovator": "IBM",
+          "impact": "Set the global standard for personal computing hardware."
+        },
+        {
+          "year": "1989",
+          "event": "World Wide Web (WWW)",
+          "innovator": "Tim Berners-Lee",
+          "impact": "Created the first browser and server to organize internet data."
+        }
+      ]
+    },
+    {
+      "era": "V. The Mobile & Information Age (1991–2010)",
+      "milestones": [
+        {
+          "year": "1991",
+          "event": "Linux Kernel Release",
+          "innovator": "Linus Torvalds",
+          "impact": "Enabled the open-source software revolution."
+        },
+        {
+          "year": "1998",
+          "event": "Founding of Google",
+          "innovator": "Larry Page & Sergey Brin",
+          "impact": "Revolutionized global information indexing and retrieval."
+        },
+        {
+          "year": "2007",
+          "event": "Release of the iPhone",
+          "innovator": "Apple",
+          "impact": "Created the modern smartphone era; mobile internet becomes mainstream."
+        },
+        {
+          "year": "2009",
+          "event": "Creation of Bitcoin",
+          "innovator": "Satoshi Nakamoto",
+          "impact": "Introduced Blockchain and decentralized digital currency."
+        }
+      ]
+    },
+    {
+      "era": "VI. The Artificial Intelligence Era (2011–2026)",
+      "milestones": [
+        {
+          "year": "2012",
+          "event": "AlexNet ImageNet Victory",
+          "innovator": "Alex Krizhevsky",
+          "impact": "Proved Deep Learning (CNNs) could 'see'; revitalized the AI field."
+        },
+        {
+          "year": "2017",
+          "event": "Attention Is All You Need (Transformers)",
+          "innovator": "Google Research",
+          "impact": "The architectural basis for all modern LLMs (GPT, Claude, etc.)."
+        },
+        {
+          "year": "2022",
+          "event": "ChatGPT Release",
+          "innovator": "OpenAI",
+          "impact": "Generative AI becomes accessible to the general public."
+        },
+        {
+          "year": "2024-2025",
+          "event": "Rise of Agentic AI",
+          "innovator": "Global Tech",
+          "impact": "AI moves from chatting to autonomously executing complex workflows."
+        },
+        {
+          "year": "2026",
+          "event": "Agent Orchestration",
+          "impact": "AI systems act as digital coworkers managing entire projects."
+        },
+        {
+          "year": "2026",
+          "event": "Neuromorphic Computing",
+          "impact": "Chips mimicking brain structures process AI locally on mainstream devices."
+        },
+        {
+          "year": "2026",
+          "event": "6G Trials",
+          "impact": "Standardized trials begin for sub-millisecond latency and physical-digital merging."
+        }
+      ]
+    }
+  ]
+}
