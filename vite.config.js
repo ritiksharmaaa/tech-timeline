@@ -1,13 +1,12 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
+// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-
-  // REQUIRED for GitHub Pages project sites
+  // GitHub Pages expects the repo name here so assets load correctly
   base: '/tech-timline/',
-
   build: {
     outDir: 'dist',
-  },
+  }
 })
