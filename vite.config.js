@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // GitHub Pages expects the repo name here so assets load correctly
-  base: '/tech-timline/',
+  base: '/tech-timeline/',
   build: {
     outDir: 'dist',
   }
